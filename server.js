@@ -10,8 +10,6 @@ app.use(cors());
 
 const API_KEY = process.env.API_KEY;
 
-console.log(API_KEY);
-
 app.post("/completions", async (req, res) => {
   const options = {
     method: "POST",
