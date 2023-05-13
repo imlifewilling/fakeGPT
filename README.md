@@ -19,3 +19,4 @@ You may also see any lint errors in the console.
 Runs the app to show API
 
 # fakeChatGPT
+# fakeGPT
